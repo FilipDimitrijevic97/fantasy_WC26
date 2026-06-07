@@ -1,0 +1,336 @@
+Fetching Polymarket strengths…
+  48 teams.
+Fetching WC 2026 group stage schedule…
+  12 groups, 72 matches.
+
+══════════════════════════════════════════════════════════════════
+  GROUP STAGE PREDICTIONS
+  Method: Polymarket · Bradley-Terry · dynamic draw rate (10–32%)
+══════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────────
+  Group A  ·  Mexico · South Korea · Czechia · South Africa
+──────────────────────────────────────────────────────────────────
+  2026-06-11                    Mexico   86%  Draw 11%  3%    South Africa
+  2026-06-12               South Korea   43%  Draw 26%  31%   Czechia
+  2026-06-18                   Czechia   71%  Draw 14%  14%   South Africa
+  2026-06-19                    Mexico   67%  Draw 16%  17%   South Korea
+  2026-06-25                   Czechia   13%  Draw 14%  72%   Mexico
+  2026-06-25              South Africa   11%  Draw 13%  76%   South Korea
+
+  Predicted standings:
+    1. Mexico                        7.2 exp pts  ←
+    2. South Korea                   4.6 exp pts  ←
+    3. Czechia                       4.0 exp pts  ←(3rd?)
+    4. South Africa                  1.2 exp pts  
+
+──────────────────────────────────────────────────────────────────
+  Group B  ·  Switzerland · Canada · Bosnia-Herzegovina · Qatar
+──────────────────────────────────────────────────────────────────
+  2026-06-12                    Canada   56%  Draw 19%  24%   Bosnia-Herzegovina
+  2026-06-13                     Qatar    4%  Draw 11%  85%   Switzerland
+  2026-06-18               Switzerland   77%  Draw 13%  10%   Bosnia-Herzegovina
+  2026-06-18                    Canada   76%  Draw 13%  11%   Qatar
+  2026-06-24               Switzerland   64%  Draw 17%  19%   Canada
+  2026-06-24        Bosnia-Herzegovina   62%  Draw 17%  21%   Qatar
+
+  Predicted standings:
+    1. Switzerland                   7.2 exp pts  ←
+    2. Canada                        5.0 exp pts  ←
+    3. Bosnia-Herzegovina            3.4 exp pts  ←(3rd?)
+    4. Qatar                         1.5 exp pts  
+
+──────────────────────────────────────────────────────────────────
+  Group C  ·  Brazil · Morocco · Scotland · Haiti
+──────────────────────────────────────────────────────────────────
+  2026-06-13                    Brazil   71%  Draw 15%  15%   Morocco
+  2026-06-14                     Haiti   14%  Draw 14%  71%   Scotland
+  2026-06-19                  Scotland   11%  Draw 13%  76%   Morocco
+  2026-06-20                    Brazil   89%  Draw 10%  1%    Haiti
+  2026-06-24                   Morocco   87%  Draw 11%  2%    Haiti
+  2026-06-24                  Scotland    3%  Draw 11%  87%   Brazil
+
+  Predicted standings:
+    1. Brazil                        7.8 exp pts  ←
+    2. Morocco                       5.7 exp pts  ←
+    3. Scotland                      2.9 exp pts  ←(3rd?)
+    4. Haiti                         0.9 exp pts  
+
+──────────────────────────────────────────────────────────────────
+  Group D  ·  United States · Turkey · Paraguay · Australia
+──────────────────────────────────────────────────────────────────
+  2026-06-13             United States   87%  Draw 11%  3%    Paraguay
+  2026-06-14                 Australia    2%  Draw 11%  87%   Turkey
+  2026-06-19             United States   88%  Draw 10%  2%    Australia
+  2026-06-20                    Turkey   86%  Draw 11%  3%    Paraguay
+  2026-06-26                    Turkey   32%  Draw 28%  40%   United States
+  2026-06-26                  Paraguay   48%  Draw 23%  29%   Australia
+
+  Predicted standings:
+    1. United States                 6.9 exp pts  ←
+    2. Turkey                        6.7 exp pts  ←
+    3. Paraguay                      2.1 exp pts  ←(3rd?)
+    4. Australia                     1.4 exp pts  
+
+──────────────────────────────────────────────────────────────────
+  Group E  ·  Germany · Ecuador · Ivory Coast · Curaçao
+──────────────────────────────────────────────────────────────────
+  2026-06-14                   Germany   89%  Draw 10%  1%    Curaçao
+  2026-06-14               Ivory Coast   27%  Draw 22%  51%   Ecuador
+  2026-06-20                   Germany   82%  Draw 12%  7%    Ivory Coast
+  2026-06-21                   Ecuador   84%  Draw 11%  5%    Curaçao
+  2026-06-25                   Ecuador   11%  Draw 13%  75%   Germany
+  2026-06-25                   Curaçao    9%  Draw 12%  79%   Ivory Coast
+
+  Predicted standings:
+    1. Germany                       7.7 exp pts  ←
+    2. Ecuador                       4.9 exp pts  ←
+    3. Ivory Coast                   3.8 exp pts  ←(3rd?)
+    4. Curaçao                       0.8 exp pts  
+
+──────────────────────────────────────────────────────────────────
+  Group F  ·  Netherlands · Japan · Sweden · Tunisia
+──────────────────────────────────────────────────────────────────
+  2026-06-14               Netherlands   52%  Draw 21%  27%   Japan
+  2026-06-15                    Sweden   79%  Draw 12%  9%    Tunisia
+  2026-06-20               Netherlands   79%  Draw 13%  9%    Sweden
+  2026-06-21                   Tunisia    2%  Draw 11%  87%   Japan
+  2026-06-25                   Tunisia    1%  Draw 10%  89%   Netherlands
+  2026-06-25                     Japan   70%  Draw 15%  15%   Sweden
+
+  Predicted standings:
+    1. Netherlands                   7.0 exp pts  ←
+    2. Japan                         6.0 exp pts  ←
+    3. Sweden                        3.5 exp pts  ←(3rd?)
+    4. Tunisia                       0.7 exp pts  
+
+──────────────────────────────────────────────────────────────────
+  Group G  ·  Belgium · Egypt · Iran · New Zealand
+──────────────────────────────────────────────────────────────────
+  2026-06-15                   Belgium   78%  Draw 13%  10%   Egypt
+  2026-06-16                      Iran   62%  Draw 17%  21%   New Zealand
+  2026-06-21                   Belgium   82%  Draw 12%  6%    Iran
+  2026-06-22               New Zealand   14%  Draw 14%  71%   Egypt
+  2026-06-27               New Zealand    2%  Draw 11%  87%   Belgium
+  2026-06-27                     Egypt   48%  Draw 23%  29%   Iran
+
+  Predicted standings:
+    1. Belgium                       7.8 exp pts  ←
+    2. Egypt                         4.4 exp pts  ←
+    3. Iran                          3.4 exp pts  ←(3rd?)
+    4. New Zealand                   1.5 exp pts  
+
+──────────────────────────────────────────────────────────────────
+  Group H  ·  Spain · Uruguay · Cape Verde Islands · Saudi Arabia
+──────────────────────────────────────────────────────────────────
+  2026-06-15                     Spain   90%  Draw 10%  0%    Cape Verde Islands
+  2026-06-15              Saudi Arabia    4%  Draw 11%  85%   Uruguay
+  2026-06-21                     Spain   90%  Draw 10%  0%    Saudi Arabia
+  2026-06-21                   Uruguay   85%  Draw 11%  4%    Cape Verde Islands
+  2026-06-27                   Uruguay    5%  Draw 11%  83%   Spain
+  2026-06-27        Cape Verde Islands   34%  Draw 32%  34%   Saudi Arabia
+
+  Predicted standings:
+    1. Spain                         8.2 exp pts  ←
+    2. Uruguay                       5.6 exp pts  ←
+    3. Cape Verde Islands            1.7 exp pts  ←(3rd?)
+    4. Saudi Arabia                  1.7 exp pts  
+
+──────────────────────────────────────────────────────────────────
+  Group I  ·  France · Norway · Senegal · Iraq
+──────────────────────────────────────────────────────────────────
+  2026-06-16                    France   86%  Draw 11%  3%    Senegal
+  2026-06-16                      Iraq    2%  Draw 10%  88%   Norway
+  2026-06-22                    France   90%  Draw 10%  0%    Iraq
+  2026-06-23                    Norway   67%  Draw 16%  17%   Senegal
+  2026-06-26                    Norway   12%  Draw 13%  75%   France
+  2026-06-26                   Senegal   82%  Draw 12%  6%    Iraq
+
+  Predicted standings:
+    1. France                        7.8 exp pts  ←
+    2. Norway                        5.4 exp pts  ←
+    3. Senegal                       3.5 exp pts  ←(3rd?)
+    4. Iraq                          0.6 exp pts  
+
+──────────────────────────────────────────────────────────────────
+  Group J  ·  Argentina · Austria · Algeria · Jordan
+──────────────────────────────────────────────────────────────────
+  2026-06-17                 Argentina   88%  Draw 10%  1%    Algeria
+  2026-06-17                   Austria   79%  Draw 12%  9%    Jordan
+  2026-06-22                 Argentina   85%  Draw 11%  4%    Austria
+  2026-06-23                    Jordan   21%  Draw 17%  62%   Algeria
+  2026-06-28                    Jordan    1%  Draw 10%  89%   Argentina
+  2026-06-28                   Algeria   21%  Draw 17%  62%   Austria
+
+  Predicted standings:
+    1. Argentina                     8.2 exp pts  ←
+    2. Austria                       4.8 exp pts  ←
+    3. Algeria                       3.0 exp pts  ←(3rd?)
+    4. Jordan                        1.3 exp pts  
+
+──────────────────────────────────────────────────────────────────
+  Group K  ·  Portugal · Colombia · Congo DR · Uzbekistan
+──────────────────────────────────────────────────────────────────
+  2026-06-17                  Portugal   88%  Draw 10%  1%    Congo DR
+  2026-06-18                Uzbekistan    2%  Draw 11%  87%   Colombia
+  2026-06-23                  Portugal   89%  Draw 10%  0%    Uzbekistan
+  2026-06-24                  Colombia   82%  Draw 12%  7%    Congo DR
+  2026-06-27                  Colombia   14%  Draw 14%  72%   Portugal
+  2026-06-27                  Congo DR   62%  Draw 17%  21%   Uzbekistan
+
+  Predicted standings:
+    1. Portugal                      7.8 exp pts  ←
+    2. Colombia                      5.8 exp pts  ←
+    3. Congo DR                      2.5 exp pts  ←(3rd?)
+    4. Uzbekistan                    1.1 exp pts  
+
+──────────────────────────────────────────────────────────────────
+  Group L  ·  England · Croatia · Ghana · Panama
+──────────────────────────────────────────────────────────────────
+  2026-06-17                   England   81%  Draw 12%  7%    Croatia
+  2026-06-17                     Ghana   62%  Draw 17%  21%   Panama
+  2026-06-23                   England   89%  Draw 10%  1%    Ghana
+  2026-06-23                    Panama    4%  Draw 11%  84%   Croatia
+  2026-06-27                    Panama    0%  Draw 10%  89%   England
+  2026-06-27                   Croatia   75%  Draw 13%  12%   Ghana
+
+  Predicted standings:
+    1. England                       8.1 exp pts  ←
+    2. Croatia                       5.3 exp pts  ←
+    3. Ghana                         2.7 exp pts  ←(3rd?)
+    4. Panama                        1.2 exp pts  
+
+Running Monte Carlo (50,000 simulations)…
+
+══════════════════════════════════════════════════════════════════════════
+  LIKELY KNOCKOUT BRACKET  (higher Polymarket strength wins each game)
+══════════════════════════════════════════════════════════════════════════
+
+  ── Round of 32 ──
+    M73: South Korea                    50%  vs  Canada                         50%  →  South Korea
+    M74: Germany                        96%  vs  Scotland                        4%  →  Germany  [28% likely]
+    M75: Netherlands                    69%  vs  Morocco                        31%  →  Netherlands
+    M76: Brazil                         80%  vs  Japan                          20%  →  Brazil
+    M77: France                         98%  vs  Scotland                        2%  →  France  [23% likely]
+    M78: Ecuador                        25%  vs  Norway                         75%  →  Norway
+    M79: Mexico                         75%  vs  Sweden                         25%  →  Mexico  [20% likely]
+    M80: England                        94%  vs  Senegal                         6%  →  England  [24% likely]
+    M81: United States                  98%  vs  Bosnia-Herzegovina              2%  →  United States  [35% likely]
+    M82: Belgium                        89%  vs  Czechia                        11%  →  Belgium  [24% likely]
+    M83: Colombia                       66%  vs  Croatia                        34%  →  Colombia
+    M84: Spain                          97%  vs  Austria                         3%  →  Spain
+    M85: Switzerland                    88%  vs  Iran                           12%  →  Switzerland  [29% likely]
+    M86: Argentina                      89%  vs  Uruguay                        11%  →  Argentina
+    M87: Portugal                       97%  vs  Paraguay                        3%  →  Portugal  [29% likely]
+    M88: Turkey                         96%  vs  Egypt                           4%  →  Turkey
+
+  ── Round of 16 ──
+    M89: Germany                        26%  vs  France                         74%  →  France
+    M90: South Korea                     8%  vs  Netherlands                    92%  →  Netherlands
+    M91: Brazil                         77%  vs  Norway                         23%  →  Brazil
+    M92: Mexico                         11%  vs  England                        89%  →  England
+    M93: Colombia                       10%  vs  Spain                          90%  →  Spain
+    M94: United States                  80%  vs  Belgium                        20%  →  United States
+    M95: Argentina                      58%  vs  Turkey                         42%  →  Argentina
+    M96: Switzerland                    11%  vs  Portugal                       89%  →  Portugal
+
+  ── Quarter-Finals ──
+    M97: France                         80%  vs  Netherlands                    20%  →  France
+    M98: Spain                          67%  vs  United States                  33%  →  Spain
+    M99: Brazil                         43%  vs  England                        57%  →  England
+    M100: Argentina                      48%  vs  Portugal                       52%  →  Portugal
+
+  ── Semi-Finals ──
+    M101: France                         50%  vs  Spain                          50%  →  France
+    M102: England                        54%  vs  Portugal                       46%  →  England
+
+  ── Final (M104) ──
+    France                         59%  vs  England                        41%  →  France
+
+  Predicted champion: France
+
+══════════════════════════════════════════════════════════════════════════
+  3RD-PLACE SLOT PROBABILITIES  (50 000 MC runs)
+══════════════════════════════════════════════════════════════════════════
+  Slot  Eligible      vs          Most likely opponents (top 3)
+  ──────────────────────────────────────────────────────────────────────
+  M74   [A/B/C/D/F  ] vs Winner E    Scotland 28%  Czechia 16%  South Korea 14%
+  M77   [C/D/F/G/H  ] vs Winner I    Scotland 23%  Sweden 19%  Paraguay 16%
+  M79   [C/E/F/H/I  ] vs Winner A    Sweden 20%  Senegal 20%  Ecuador 11%
+  M80   [E/H/I/J/K  ] vs Winner L    Senegal 24%  Ivory Coast 16%  Congo DR 13%
+  M81   [B/E/F/I/J  ] vs Winner D    Bosnia-Herzegovina 35%  Canada 20%  Ivory Coast 8%
+  M82   [A/E/H/I/J  ] vs Winner G    Czechia 24%  South Korea 19%  Ivory Coast 15%
+  M85   [E/F/G/I/J  ] vs Winner B    Iran 29%  Egypt 23%  TBD 11%
+  M87   [D/E/I/J/L  ] vs Winner K    Paraguay 29%  Australia 20%  Croatia 16%
+
+══════════════════════════════════════════════════════════════════
+  KNOCKOUT SIMULATION  (50 000 runs · Polymarket odds)
+══════════════════════════════════════════════════════════════════
+  Team                           Win   Final     SF     QF    R16
+  ────────────────────────────────────────────────────────────
+  France                         23%     36%    59%    73%    94%
+  Spain                          23%     36%    56%    76%    92%
+  England                        14%     28%    49%    75%    89%
+  Portugal                       10%     22%    42%    74%    91%
+  United States                   7%     16%    31%    65%    93%
+  Brazil                          7%     16%    32%    60%    78%
+  Argentina                       6%     15%    29%    49%    80%
+  Turkey                          4%     11%    26%    58%    91%
+  Germany                         3%      8%    21%    34%    87%
+  Netherlands                     1%      4%    14%    44%    57%
+  TBD                             0%      1%     3%     8%    14%
+  Norway                          0%      2%     9%    25%    67%
+  Japan                           0%      1%     5%    23%    39%
+
+════════════════════════════════════════════════════════════════════
+  PREDICTED TOP SCORERS  (Polymarket × expected matches × position)
+════════════════════════════════════════════════════════════════════
+   #  Player                       Team                     Pos     xG
+  ────────────────────────────────────────────────────────────────────
+   1. Kylian Mbappé                France                   FWD   3.42
+   2. Harry Kane                   England                  FWD   2.43
+   3. Kai Havertz                  Germany                  FWD   2.00
+   4. Mikel Oyarzabal              Spain                    FWD   1.95
+   5. Ferrán Torres                Spain                    FWD   1.93
+   6. Lautaro Martínez             Argentina                FWD   1.65
+   7. Neymar                       Brazil                   FWD   1.58
+   8. Ayase Ueda                   Japan                    FWD   1.38
+   9. Heung-min Son                Korea Republic           FWD   1.36
+  10. Lionel Messi                 Argentina                FWD   1.35
+  11. Dani Olmo                    Spain                    FWD   1.34
+  12. Marcus Rashford              England                  FWD   1.32
+  13. Erling Haaland               Norway                   FWD   1.30
+  14. Koki Ogawa                   Japan                    FWD   1.26
+  15. Ousmane Dembélé              France                   FWD   1.25
+  16. Muhammed Kerem Aktürkoğlu    Turkey                   FWD   1.24
+  17. Romelu Lukaku                Belgium                  FWD   1.22
+  18. Luis Díaz                    Colombia                 FWD   1.22
+  19. Adrien Rabiot                France                   MID   1.16
+  20. Deniz Undav                  Germany                  FWD   1.13
+
+════════════════════════════════════════════════════════════════════
+  PREDICTED TOP ASSISTS  (Polymarket × expected matches × position)
+════════════════════════════════════════════════════════════════════
+   #  Player                       Team                     Pos     xA
+  ────────────────────────────────────────────────────────────────────
+   1. Kylian Mbappé                France                   FWD   1.92
+   2. Harry Kane                   England                  FWD   1.36
+   3. Adrien Rabiot                France                   MID   1.36
+   4. Kai Havertz                  Germany                  FWD   1.12
+   5. Mikel Oyarzabal              Spain                    FWD   1.09
+   6. Aurélien Tchouameni          France                   MID   1.09
+   7. Ferrán Torres                Spain                    FWD   1.08
+   8. Declan Rice                  England                  MID   1.00
+   9. Lucas Paquetá                Brazil                   MID   0.98
+  10. Lautaro Martínez             Argentina                FWD   0.92
+  11. Bruno Fernandes              Portugal                 MID   0.91
+  12. Mikel Merino                 Spain                    MID   0.89
+  13. Neymar                       Brazil                   FWD   0.88
+  14. Jude Bellingham              England                  MID   0.86
+  15. N'Golo Kanté                 France                   MID   0.78
+  16. Ayase Ueda                   Japan                    FWD   0.77
+  17. Heung-min Son                Korea Republic           FWD   0.77
+  18. Lionel Messi                 Argentina                FWD   0.76
+  19. Dani Olmo                    Spain                    FWD   0.75
+  20. Marcus Rashford              England                  FWD   0.74
+
