@@ -1,3 +1,6 @@
+# Generated data (rebuild with fetch_players.py)
+players.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
